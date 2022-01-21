@@ -1,0 +1,11 @@
+Visualization:
+  Scale: 1.5
+  Input: 'input/sample_text.txt'
+  Output: 'output/sample_story_tree.ipe'
+  Short_sents_std: 1.5
+  Closeness: 0.15
+  
+Summarization:
+  Short_sents_std: 1.5
+  Closeness: 0.15
+  Method: "Salient_STL"
